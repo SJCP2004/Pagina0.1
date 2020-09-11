@@ -1,0 +1,26 @@
+	<style type="text/css">
+		.borde {
+			background-color: grey;
+			height: 200px;
+		}
+		.borde1 {
+			background-color: aquamarine;
+			height: 50px;
+			text-align: center;
+		}
+		.borde2 {
+			height: 50px;
+			text-align: center;
+			background-color: olivedrab;
+		}
+		.borde3 {
+			height: 50px;
+			text-align: center;
+			background-color: orangered;
+		}
+		.borde4 {
+			height: 50px;
+			text-align: center;
+			background-color: darkred;
+		}
+	</style>
